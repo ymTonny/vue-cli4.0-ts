@@ -1,4 +1,4 @@
-# myproject
+# vue-cli4.0-ts
 
 ## Project setup
 ```
